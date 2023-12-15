@@ -510,15 +510,20 @@ padding: 120px 0;
 }
 
 .footer {
-    width: 1440px;
+    width: 100%;
     background-color: var(--navy-blue);
     display: flex;
     justify-content:flex-start;
-    align-items: left;
+    align-items: center;
     padding: 100px 0;
     gap: 1px;
+  
+    
+}
+
+.footer-all{
+    display: flex;
     align-items: baseline;
-    padding-left:156px;
 }
 
 .footer-logo {
