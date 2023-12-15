@@ -513,11 +513,11 @@ padding: 120px 0;
     background-color: var(--navy-blue);
     display: flex;
     justify-content:flex-start;
-    align-items: center;
+    align-items: left;
     padding: 100px 0;
     gap: 1px;
     align-items: baseline;
-
+    padding-left:156px;
 }
 
 .footer-logo {
@@ -564,7 +564,7 @@ padding: 120px 0;
     justify-content: center;
     align-items: center;
     gap: 16px;
-
+    padding-left: 0px;
 }
 
 .footer-icon-space {
@@ -588,7 +588,6 @@ padding: 120px 0;
 
 .footer-side{
     margin-right: 120px;
-    margin-right: 156px;
 }
 .footer-social-side{
     margin: 0 auto;
