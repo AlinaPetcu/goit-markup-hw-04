@@ -510,6 +510,7 @@ padding: 120px 0;
 }
 
 .footer {
+    width: 1440px;
     background-color: var(--navy-blue);
     display: flex;
     justify-content:flex-start;
