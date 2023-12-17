@@ -18,6 +18,11 @@ body{
     height: 1440px;
     }
     
+
+h2{
+margin: 0;
+}
+
 img{
     display: flex;
 }
